@@ -1,0 +1,5 @@
+.venv/
+__pycache__/
+*.pyc
+notion_auth.json
+.DS_Store
