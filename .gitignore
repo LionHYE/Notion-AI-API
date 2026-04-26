@@ -3,3 +3,6 @@ __pycache__/
 *.pyc
 notion_auth.json
 .DS_Store
+test_all.py
+test_list_chats.py
+test_report.md
